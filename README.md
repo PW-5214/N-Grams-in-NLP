@@ -75,5 +75,5 @@ README.md          # Project documentation
 ---
 
 ## 👨‍🏫 Author
-- **Your Name**  
-- B.E. Artificial Intelligence & Data Science  
+- **Prathmesh Wavhal**  
+- B.Tech in Artificial Intelligence & Data Science  
